@@ -13,6 +13,7 @@ namespace HelloGit
             Console.WriteLine(("Hello Git"));
             Console.WriteLine(("You've been modified."));
             Console.WriteLine(("Todays fortune:" + GetFortune()));
+            Console.WriteLine("Have a Nice Day!");
             Console.ReadKey();
         }
 
